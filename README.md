@@ -28,5 +28,3 @@ Excel- Data Visualisation
 
 Data Analysis– Identifying engagement patterns
 
-
-Thank you for your interest in this Meta Social Media Analysis project!
